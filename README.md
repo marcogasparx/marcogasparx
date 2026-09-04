@@ -14,7 +14,7 @@
   </p>
 </div>
 
-<img width="2000" height="2000" alt="octocat-1788534765470" src="https://github.com/user-attachments/assets/8bbe1da3-9981-4171-ad07-f59c9dfca9e5" />
+<img width="500" height="2000" alt="octocat-1788534765470" src="https://github.com/user-attachments/assets/8bbe1da3-9981-4171-ad07-f59c9dfca9e5" />
 
 ---
 
