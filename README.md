@@ -26,10 +26,10 @@
 
 ### 👨‍💻 Um pouco sobre mim
 
-* 🏢 **Foco Atual:** Trabalhando no desenvolvimento de aplicações web escaláveis.
-* 🎓 **Estudando:** Novas tecnologias, arquitetura de software e performance.
-* 💡 **Objetivo:** Adoro transformar ideias complexas em interfaces simples e fáceis de usar.
-* 🤝 **Comunidade:** Sempre aberto para bater papo sobre tecnologia, projetos open-source e design.
+* 🏢 **Foco Atual:** Chatbots, dashboards e desenvolvimento de software.
+* 🎓 **Estudando:** Arquitetura, performance e novas formas de construir software.
+* 💡 **Objetivo:** Criar soluções que sejam simples de entender, boas de usar e interessantes de construir.
+* 🤝 **Comunidade:** Gosto de trocar ideias, explorar projetos open-source e aprender com outras pessoas.
 
 </td>
 
