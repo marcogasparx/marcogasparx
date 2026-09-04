@@ -33,11 +33,12 @@
 
 </td>
 
-<td valign="middle" align="center" width="10%">
+<td valign="middle" align="center" width="40%">
 
-<img width="500" height="500" alt="octocat-1788534765470" src="https://github.com/user-attachments/assets/8bbe1da3-9981-4171-ad07-f59c9dfca9e5" />
+<img width="280" height="280" alt="octocat-1788534765470" src="https://github.com/user-attachments/assets/8bbe1da3-9981-4171-ad07-f59c9dfca9e5" />
 
 </td>
+
 
 <td valign="top" width="45%">
 
