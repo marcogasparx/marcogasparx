@@ -14,6 +14,8 @@
   </p>
 </div>
 
+<img width="2000" height="2000" alt="octocat-1788534765470" src="https://github.com/user-attachments/assets/8bbe1da3-9981-4171-ad07-f59c9dfca9e5" />
+
 ---
 
 <!-- Seção Dividida: Sobre Mim e Tecnologias -->
@@ -51,12 +53,4 @@
 </tr>
 </table>
 
----
 
-### 📊 Estatísticas e Conquistas
-
-<div align="center">
-  <br/>
-  <!-- Gráfico de Sequência de Commits centralizado -->
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=mxrcog&hide_border=true&background=0D1117&ring=2F80ED&fire=2F80ED&currStreakNum=A9B2C3&sideNums=A9B2C3&currStreakLabel=2F80ED&sideLabels=A9B2C3&dates=A9B2C3&border_radius=10" alt="Sequência de Commits" width="60%" />
-</div>
