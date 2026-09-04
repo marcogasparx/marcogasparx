@@ -33,7 +33,7 @@
 
 </td>
 
-<td valign="middle" align="center" width="40%">
+<td valign="middle" align="center" width="20%">
 
 <img width="280" height="280" alt="octocat-1788534765470" src="https://github.com/user-attachments/assets/8bbe1da3-9981-4171-ad07-f59c9dfca9e5" />
 
