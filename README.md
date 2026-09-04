@@ -6,7 +6,7 @@
   <p>Construindo soluções elegantes para problemas complexos.</p>
 
   <p>
-    <a href="https://linkedin.com/in/seulinkedin">
+    <a href="[https://linkedin.com/in/seulinkedin](https://www.linkedin.com/in/marco-gaspar-738194161/)">
       <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
     </a>
     <a href="mailto:marcogaspar92@gmail.com">
