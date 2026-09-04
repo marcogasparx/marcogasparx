@@ -1,7 +1,7 @@
 <!-- Cabeçalho Principal -->
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=32&duration=3000&pause=1000&color=2F80ED&center=true&vCenter=true&width=600&height=80&lines=Olá,+eu+sou+o+Marco+!+👋;Desenvolvedor+Full-Stack;Focado+em+Código+Limpo+e+UI/UX" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=32&duration=3000&pause=1000&color=2F80ED&center=true&vCenter=true&width=600&height=80&lines=Olá,+eu+sou+o+Marco+!;Desenvolvedor+Full-Stack;Focado+em+Código+Limpo+e+UI/UX" alt="Typing SVG" />
 
   <p>Construindo soluções elegantes para problemas complexos.</p>
 
